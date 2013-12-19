@@ -1,4 +1,4 @@
-package com.doetsch.unittest;
+package com.doetsch.io.unittest;
 
 import java.io.File;
 import java.io.FileNotFoundException;
