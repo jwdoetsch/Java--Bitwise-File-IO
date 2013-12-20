@@ -34,7 +34,7 @@ Extract the .zip and add the .jar from the `/lib` directory to your build path i
 #####Reading bits from a file#####
 
     import com.doetsch.io.bitwise.FileInputBitStream;
-    import java.util.File;
+    import java.io.File;
     
 	class FileBitReader {
 	    
@@ -75,7 +75,7 @@ Extract the .zip and add the .jar from the `/lib` directory to your build path i
 #####Writing bits to a file#####
     
     import com.doetsch.io.bitwise.FileOutputBitStream;
-    import java.util.File;
+    import java.io.File;
 	
 	class FileBitWriter {
 	    
