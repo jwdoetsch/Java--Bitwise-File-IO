@@ -2,10 +2,4 @@
 
 
 ##com.doetsch.io.bitwise##
-Package heirarchy:
-
-    + com.doetsch.io.bitwise
-    |
-    |--- FileInputBitStream
-    |
-    |--- FileOutputBitStream
+This package contains two classes 'FileInputBitStream' and 'FileOutputBitStream'. 
