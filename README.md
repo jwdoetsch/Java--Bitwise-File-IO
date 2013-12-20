@@ -9,9 +9,9 @@ This Java package provides classes to assist in reading and writing individual b
 This package contains two classes `FileInputBitStream` and `FileOutputBitStream`.
 
 *   `FileInputBitStream` extends `java.util.FileInputStream` and implements functionality to enable the ability to read
-individual bits from the file input stream.
+individual bits from the file input stream. Complete class documentation is included in the `/doc` directory of this repository.
 
-*   `FileOutputBitStream` extends `java.util.FileOutputStream` and implements functionality to enable the ability to read individual bits from the file input stream.
+*   `FileOutputBitStream` extends `java.util.FileOutputStream` and implements functionality to enable the ability to read individual bits from the file input stream. Complete class documentation is included in the `/doc` directory of this repository.
 
 ###Usage###
 
@@ -21,13 +21,13 @@ Download the repository .zip archive on the right nagivation-pane of this GitHub
 
 ####Installation & Configuration####
 
-Extract the .zip and add the .jar from the `lib/` directory to your build path in your favorite Java IDE.
+Extract the .zip and add the .jar from the `/lib` directory to your build path in your favorite Java IDE.
     
 #####Eclipse#####
     
 1. Select your project from the `Package Explorer` pane
 2. From the menu bar, follow `Project > Properties > Java Build Path > Libraries` and select `Add External JARs...`
-3. Navigate to the `lib/` directory of the extracted repository .zip, select `com.doetsch.io.bitwise.jar`, select `Open`
+3. Navigate to the `/lib` directory of the extracted repository .zip, select `com.doetsch.io.bitwise.jar`, select `Open`
 
 ####Examples####
 
