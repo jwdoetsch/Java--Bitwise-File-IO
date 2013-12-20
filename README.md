@@ -1,6 +1,5 @@
-Java -- Bitwise File IO
-=======================
+#Java -- Bitwise File IO
 
 
-com.doetsch.io.bitwise
-----------------------
+##com.doetsch.io.bitwise
+
