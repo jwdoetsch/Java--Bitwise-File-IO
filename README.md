@@ -3,7 +3,7 @@
 
 ##com.doetsch.io.bitwise##
 Package heirarchy:
-    +com.doetsch.io.bitwise
-    |---FileInputBitStream
-    |---FileOutputBitStream
+> +com.doetsch.io.bitwise
+> |---FileInputBitStream
+> |---FileOutputBitStream
 
