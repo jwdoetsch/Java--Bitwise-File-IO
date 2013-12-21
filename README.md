@@ -35,6 +35,8 @@ Extract the .zip and add the .jar from the `/lib` directory to your build path i
 
     import com.doetsch.io.bitwise.FileInputBitStream;
     import java.io.File;
+    import java.io.FileNotFoundException;
+    import java.io.IOException;
     
 	class FileBitReader {
 	    
@@ -76,6 +78,8 @@ Extract the .zip and add the .jar from the `/lib` directory to your build path i
     
     import com.doetsch.io.bitwise.FileOutputBitStream;
     import java.io.File;
+    import java.io.FileNotFoundException;
+    import java.io.IOException;
 	
 	class FileBitWriter {
 	    
