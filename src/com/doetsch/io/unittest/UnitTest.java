@@ -27,6 +27,8 @@ public class UnitTest {
 
 			out.close();
 			
+			assert (1 == 2);
+			
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
