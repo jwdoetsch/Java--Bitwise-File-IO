@@ -6,12 +6,12 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 /**
- * FileInputBitStream extends the functionality
- * of FileInputStream by implementing the ability
- * to read file input streams by byte. It does
+ * FileOutputBitStream extends the functionality
+ * of FileOutputStream by implementing the ability
+ * to write out to file streams by bits. It does
  * this by implementing an internal buffer
  * representing the bitwise representation of a
- * byte value;
+ * byte value.
  * 
  * @author Jacob Wesley Doetsch
  */
